@@ -1,5 +1,5 @@
 # DSA-with-Python
 
-# Topics covered are :
+# Topics Covered are :
 
 01. Recursions
